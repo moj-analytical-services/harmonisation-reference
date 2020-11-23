@@ -1,0 +1,74 @@
+date,url,area_type
+01-Apr-20,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LAD_APR_2020_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Local Authority
+01-Dec-19,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LAD_DEC_2019_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Local Authority
+01-Apr-19,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LAD_APR_2019_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Local Authority
+01-Dec-18,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LAD_DEC_2018_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Local Authority
+01-Dec-17,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LAD_DEC_2017_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Local Authority
+01-Dec-16,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LAD_DEC_2016_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Local Authority
+01-Feb-16,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LA_UA_names_and_codes_UK_as_at_02_16/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Local Authority
+01-Apr-15,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/LAD_APR_2015_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Local Authority
+21-Apr-91,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/District_names_and_codes_EW_as_at_21_4_91/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Local Authority
+31-Dec-15,https://opendata.arcgis.com/datasets/9efd768455cf4190803974b54c742d49_0/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Country
+31-Dec-16,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/CTRY_DEC_2016_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Country
+31-Dec-17,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/CTRY_DEC_2017_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Country
+31-Dec-18,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/CTRY_DEC_2018_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Country
+31-Dec-14,https://opendata.arcgis.com/datasets/df09380e3f244e18a857640deb56bb89_0/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Region
+31-Dec-15,https://opendata.arcgis.com/datasets/cd1077d820444f4797d5d175fb0c02f0_0/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Region
+31-Dec-16,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/RGN_DEC_2016_EN_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Region
+31-Dec-17,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/RGN_DEC_2017_EN_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Region
+31-Dec-18,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/RGN_DEC_2018_EN_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Region
+31-Dec-19,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/RGN_DEC_2019_EN_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Region
+31-Dec-15,https://opendata.arcgis.com/datasets/ad960d609e87402698c5cf56b5542fd5_0/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Police Force Area
+31-Dec-16,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/PFA_DEC_2016_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Police Force Area
+31-Dec-17,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/PFA_DEC_2017_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Police Force Area
+31-Dec-18,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/PFA_DEC_2018_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Police Force Area
+31-Dec-19,https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/PFA_DEC_2019_UK_NC/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json,Police Force Area
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
