@@ -1,4 +1,4 @@
-"custody.custody_code","custody.custody_group","custody.custody_type","custody.custody_detail","custody.custody_sentence_detail"
+"custody_code","custody_group","custody_type","custody_detail","custody_sentence_detail"
 "1","Remand","Untried","Untried","Untried"
 "2","Remand","Convicted unsentenced","Convicted unsentenced","Convicted unsentenced"
 "3","Sentenced","Fine defaulter","Fine defaulter","Fine defaulter"
