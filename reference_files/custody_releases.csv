@@ -10,5 +10,5 @@ H3 7 years to less than 10 years,Releases,Determinate sentences,4 years or more 
 H4 10 years to less than 14 years,Releases,Determinate sentences,4 years or more (excluding indeterminate sentences),10 years to less than 14 years
 H5 14 years or more (excluding indeterminate sentences),Releases,Determinate sentences,4 years or more (excluding indeterminate sentences),14 years or more (excluding indeterminate sentences)
 H6 Extended determinate sentence,Releases,Determinate sentences,4 years or more (excluding indeterminate sentences),Extended determinate sentence
-J2 Life,Releases,Life sentence,Indeterminate sentences,Indeterminate sentences
-J1 IPP,Releases,Imprisonment for public protection (IPP),Indeterminate sentences,Indeterminate sentences
+J2 Life,Releases,Indeterminate sentences, Life, Life
+J1 IPP,Releases,Indeterminate sentences, Imprisonment for public protection (IPP), Imprisonment for public protection (IPP)
