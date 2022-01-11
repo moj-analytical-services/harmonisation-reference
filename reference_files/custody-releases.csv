@@ -1,0 +1,14 @@
+﻿custody_code,custody_group,custody_type,custody_detail,custody_sentence_detail
+D Less than 6 months,Releases,Determinate sentences,Less than or equal to 6 months,Less than or equal to 6 months
+E 6 months,Releases,Determinate sentences,Less than or equal to 6 months,Less than or equal to 6 months
+F More than 6 months to less than 12 months,Releases,Determinate sentences,Greater than 6 months to less than 12 months,Greater than 6 months to less than 12 months
+G1 12 months to less than 2 years,Releases,Determinate sentences,12 months to less than 4 years,12 months to less than 2 years
+G2 2 years to less than 4 years,Releases,Determinate sentences,12 months to less than 4 years,2 years to less than 4 years
+H1 4 years to less than 5 years,Releases,Determinate sentences,4 years or more (excluding indeterminate sentences),4 years to less than 5 years
+H2 5 years to less than 7 years,Releases,Determinate sentences,4 years or more (excluding indeterminate sentences),5 years to less than 7 years
+H3 7 years to less than 10 years,Releases,Determinate sentences,4 years or more (excluding indeterminate sentences),7 years to less than 10 years
+H4 10 years to less than 14 years,Releases,Determinate sentences,4 years or more (excluding indeterminate sentences),10 years to less than 14 years
+H5 14 years or more (excluding indeterminate sentences),Releases,Determinate sentences,4 years or more (excluding indeterminate sentences),14 years or more (excluding indeterminate sentences)
+H6 Extended determinate sentence,Releases,Determinate sentences,4 years or more (excluding indeterminate sentences),Extended determinate sentence
+J2 Life,Releases,Life sentence,Indeterminate sentences,Indeterminate sentences
+J1 IPP,Releases,Imprisonment for public protection (IPP),Indeterminate sentences,Indeterminate sentences
