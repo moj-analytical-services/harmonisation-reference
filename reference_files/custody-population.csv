@@ -1,0 +1,20 @@
+custody_code,custody_group,remand_type,sentence_type,sentence_length,detailed_sentence_length
+1,Remand,Untried,Remand,Remand,Remand
+2,Remand,Convicted unsentenced,Remand,Remand,Remand
+3,Sentenced,Sentenced,Fine defaulter,Fine defaulter,Fine defaulter
+4,Sentenced,Sentenced,Determinate sentences,Less than or equal to 6 months,Less than or equal to 6 months
+5,Sentenced,Sentenced,Determinate sentences,Less than or equal to 6 months,Less than or equal to 6 months
+6,Sentenced,Sentenced,Determinate sentences,Greater than 6 months to less than 12 months,Greater than 6 months to less than 12 months
+7.1,Sentenced,Sentenced,Determinate sentences,12 months to less than 4 years,12 months to less than 2 years
+7.2,Sentenced,Sentenced,Determinate sentences,12 months to less than 4 years,2 years to less than 4 years
+8.1,Sentenced,Sentenced,Determinate sentences,4 years or more (excluding indeterminate sentences),4 years to less than 5 years
+8.2,Sentenced,Sentenced,Determinate sentences,4 years or more (excluding indeterminate sentences),5 years to less than 7 years
+8.3,Sentenced,Sentenced,Determinate sentences,4 years or more (excluding indeterminate sentences),7 years to less than 10 years
+8.4,Sentenced,Sentenced,Determinate sentences,4 years or more (excluding indeterminate sentences),10 years to less than 14 years
+8.5,Sentenced,Sentenced,Determinate sentences,4 years or more (excluding indeterminate sentences),14 years or more (excluding indeterminate sentences)
+8.6,Sentenced,Sentenced,Determinate sentences,4 years or more (excluding indeterminate sentences),Extended determinate sentence
+9,Sentenced,Sentenced,Indeterminate sentences,Indeterminate sentences,Indeterminate sentences
+10,Sentenced,Sentenced,Indeterminate sentences,Indeterminate sentences,Indeterminate sentences
+11,Non criminal prisoners,Non criminal prisoners,Non criminal prisoners,Non criminal prisoners,Non criminal prisoners
+12,Sentenced,Sentenced,Recalls,Recalls,Recalls
+13,Sentenced,Sentenced,Sentence length not recorded,Sentence length not recorded,Sentence length not recorded
